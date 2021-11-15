@@ -2,7 +2,7 @@
 # Latihan 1
 Program Sederhana Menampilkan Bilangan Terbesar
 
-![Gambar 1](Screenshot/Lat1.png)
+![Gambar 1](Screenshoot/Lat1.png)
 
 Penjelasan:
 
@@ -33,7 +33,7 @@ print("Bilangan Terbesar Adalah", hasil)
 # Latihan 2
 Program Mengurutkan Data dari Bilangan Terkecil
 
-![Gambar 2](Screenshot/Lat2.png)
+![Gambar 2](Screenshoot/Lat2.png)
 
 Penjelasan:
 
@@ -59,7 +59,7 @@ print("Urutan Bilangan: ", data)
 # Latihan 3
 Program Perulangan Bertingkat (Nested for)
 
-![Gambar 3](Screenshot/Lat3.png)
+![Gambar 3](Screenshoot/Lat3.png)
 
 Penjelasan: i (baris) j (kolom)
 
@@ -80,7 +80,7 @@ print()
 # Latihan 4
 Program Menampilkan N Bilangan Acak yang Lebih Kecil dari 0.5
 
-![Gambar 4](Screenshot/Lat4.png)
+![Gambar 4](Screenshoot/Lat4.png)
 
 Penjelasan: 
 
